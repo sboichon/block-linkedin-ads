@@ -3,7 +3,7 @@
 This repository contains views and explores used for the LinkedIn Ads Block dashboards. There are 5 dashboards that come with this block: LinkedIn Adwords Overview, LinkedIn Adwords - Clicks, LinkedIn Adwords - Conversions, LinkedIn Adwords - Impressions and LinkedIn Adwords - Spend. Each of the dashboards provides in-depth analysis of ad/campaign performance over a given timeframe.
 
 This project is remotely included through the LinkedIn Ads Block Config project. 
-To pull updates from this project, update the `ref:` parameter in the manifest file. It should point to the latest commit in [block-facebook-ads](https://github.com/looker/block-facebook-ads/commits/master).
+To pull updates from this project, update the `ref:` parameter in the manifest file. It should point to the latest commit in [block-linkedin-ads](https://github.com/looker/block-linkedin-ads/commits/master).
 
 The LookML constants are used to specify the name of the schema and connection. 
 They are defined in the LinkedIn Ads Block Config project.
