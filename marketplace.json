@@ -22,21 +22,9 @@
   ],
   "auxiliary_projects": [
     {
-      "git_uri": "git://github.com/looker/app-marketing-common-bigquery",
-      "git_ref": "3d8fe8aa069aecfb55b245599cf2f7a9ed1b8f36",
-      "label": "App Marketing Common",
-      "constant_name": "CONFIG_PROJECT_NAME"
-    },
-    {
-      "git_uri": "git://github.com/looker/app-marketing-linkedin-ads-fivetran-bigquery",
-      "git_ref": "10d08ba9c79b8ae136142e57187e20aa74d4a30b",
-      "label": "App Marketing LinkedIn Ads Adapter",
-      "constant_name": "CONFIG_PROJECT_NAME"
-    },
-    {
-      "git_uri": "git://github.com/looker/app-marketing-linkedin-ads",
-      "git_ref": "419b493d0808d32c4f3309ffef2a314d5728dbaa",
-      "label": "App Marketing LinkedIn Ads",
+      "git_uri": "git://github.com/looker/block-linkedin-ads-config",
+      "git_ref": "bac60b30ae6d969bc9235bd6be9276cbb6b288dc",
+      "label": "Block LinkedIn Ads Config",
       "constant_name": "CONFIG_PROJECT_NAME"
     }
   ]
