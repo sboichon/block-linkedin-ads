@@ -22,6 +22,7 @@ local_dependency: {
 
 constant: CONFIG_PROJECT_NAME {
   value: "block-linkedin-ads-config"
+  export: override_required
 }
 
 # LookML to map the ETL and data warehouse for LinkedIn Ads
