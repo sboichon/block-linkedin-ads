@@ -17,7 +17,7 @@ remote_dependency: app-marketing-linkedin-ads {
 }
 
 local_dependency: {
-  project: "block-linkedin-ads-config"
+  project: "@{CONFIG_PROJECT_NAME}"
 }
 
 constant: CONFIG_PROJECT_NAME {
