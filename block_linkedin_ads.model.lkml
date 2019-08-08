@@ -1,7 +1,7 @@
 connection: "@{CONNECTION_NAME}"
 include: "//@{CONFIG_PROJECT_NAME}/*.view"
 
-include: "/app-marketing-common/*.view"
+include: "//app-marketing-common/*.view"
 include: "*.view"
 include: "*.dashboard"
 

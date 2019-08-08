@@ -18,6 +18,10 @@ remote_dependency: app-marketing-linkedin-ads {
 
 local_dependency: {
   project: "@{CONFIG_PROJECT_NAME}"
+  project: "@{CONFIG_PROJECT_NAME}"
+  override_constant: LINKEDIN_SCHEMA {
+    value: "@{LINKEDIN_SCHEMA}"
+  }
 }
 
 constant: CONFIG_PROJECT_NAME {
