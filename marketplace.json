@@ -30,7 +30,7 @@
   "auxiliary_projects": [
     {
       "git_uri": "git://github.com/looker/block-linkedin-ads-config.git",
-      "git_ref": "ba2f477726b3efc66fc85d3b3760da8b5b5fe841",
+      "git_ref": "f6ea960094e18dc1da0f2760f490df86cc376159",
       "label": "Block LinkedIn Ads Config",
       "constant_name": "CONFIG_PROJECT_NAME"
     }
