@@ -27,7 +27,7 @@
   "auxiliary_projects": [
     {
       "git_uri": "git://github.com/looker/block-linkedin-ads-config.git",
-      "git_ref": "fd5ca914d77fdd1a5d42c9b705e57af8f35a9910",
+      "git_ref": "037bf4b6dfa1c3a92ebfd61beed939a71897f3d8",
       "label": "LinkedIn Ads Config",
       "constant_name": "CONFIG_PROJECT_NAME"
     }
