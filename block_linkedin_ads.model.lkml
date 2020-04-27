@@ -14,8 +14,10 @@ explore: li_period_comparison {
 
 explore: linkedin_ad_impressions_campaign {
   extends: [linkedin_ad_impressions_campaign_config]
+  group_label: "Block Linkenin Ads"
 }
 
 explore: linkedin_ad_impressions_ad {
   extends: [linkedin_ad_impressions_ad_config]
+  group_label: "Block Linkenin Ads"
 }
