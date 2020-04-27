@@ -10,6 +10,7 @@ include: "*.dashboard"
 explore: li_period_comparison {
   extends: [li_period_comparison_config]
   hidden: no
+  group_label: "Block LinkedIn Ads"
 }
 
 explore: linkedin_ad_impressions_campaign {
