@@ -2,7 +2,7 @@ project_name: "block-linkedin-ads"
 
 remote_dependency: app-marketing-common {
   url: "git://github.com/looker/app-marketing-common-bigquery"
-  ref: "3d8fe8aa069aecfb55b245599cf2f7a9ed1b8f36"
+  ref: "d0405a8ef76925449d722b11103f419b3d40e37b"
 }
 
 # LookML to map the ETL and data warehouse for LinkedIn Ads
@@ -31,11 +31,11 @@ constant: CONFIG_PROJECT_NAME {
 
 # LookML to map the ETL and data warehouse for LinkedIn Ads
 constant: CONNECTION_NAME {
-  value: "looker_application"
+  value: "looker_app_2"
   export: override_required
 }
 
 constant: LINKEDIN_SCHEMA {
-  value: "linkedin_ads"
+  value: "linkedin_generated"
   export: override_required
 }
